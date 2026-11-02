@@ -1,0 +1,8 @@
+# Executáveis e arquivos compilados
+*.exe
+*.o
+*.out
+
+# Arquivos de editores/IDE
+.vscode/
+.idea/
