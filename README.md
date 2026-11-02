@@ -13,7 +13,7 @@ Repositório com exercícios e exemplos desenvolvidos durante meus estudos da li
 
 ## Como executar
 
-É necessário ter um compilador C instalado, como o GCC.
+É necessário ter um compilador C instalado, como o GCC ou CodeBlocks.
 
 No terminal, entre na pasta do arquivo e compile:
 
